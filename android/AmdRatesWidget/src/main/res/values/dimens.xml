@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_padding">8dp</dimen>
+    <dimen name="widget_rate_width">50dp</dimen>
+    <dimen name="widget_currency_height">14dp</dimen>
+</resources>
