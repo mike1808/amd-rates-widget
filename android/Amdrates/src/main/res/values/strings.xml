@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AmdRatesWidget</string>
+    <string name="widget_error">Couldn\'t get rates</string>
+
+    <string name="choose_bank">Choose a bank</string>
+    <string name="choose_currency">Choose a currency</string>
+    <string name="submit_Text">Submit</string>
+
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>RUR</item>
+    </string-array>
+</resources>
